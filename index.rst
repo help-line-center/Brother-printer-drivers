@@ -77,13 +77,6 @@ Where to Download Official Brother Drivers
 ✅ Always download drivers from the official Brother support page:  
 https://support.brother.com
 
-.. raw:: html
-
-    <div style="text-align:center; margin-top:30px;">
-        <a href="https://fm.ci/?aHR0cHM6Ly9icm90aGVycHJpbnRlcmhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
-            Download Brother Drivers
-        </a>
-    </div>
 
 My Experience
 -------------
@@ -96,3 +89,17 @@ Conclusion
 ----------
 
 Choosing the right Brother driver saves time and avoids setup issues. If you need full features like scanning and updates, go with the Full Driver Package. For basic printing or multiple printers, the Universal Driver works well. Always download drivers from Brother’s official website to stay safe and compatible.
+
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9icm90aGVycHJpbnRlcmhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA====" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+            🔗 Download Brother Printer Driver
+        </a>
+        <a href="https://fm.ci/?aHR0cHM6Ly9icm90aGVycHJpbnRlcmhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+            🔗Brother Printer Driver Support Center
+        </a>
+        <a href="https://fm.ci/?aHR0cHM6Ly9icm90aGVycHJpbnRlcmhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+            🔗 Reset Brother Printer Driver
+        </a>
+    </div>
