@@ -24,33 +24,49 @@ What’s the Difference Between Universal and Model-Specific Drivers?
 -------------------------------------------------------------------
 
 **1. Universal Printer Driver (UPD)**  
+
 - **Best for**: Offices or IT environments with multiple Brother printers.  
+
 - **Features**: Basic print functions only; works across many Brother models.  
+
 - **Limitations**: Usually doesn’t support scanning, advanced settings, or model-specific features.
 
 **2. Full Driver & Software Package**  
+
 - **Best for**: Home users or anyone who wants full access to all printer features.  
+
 - **Features**: Print, scan, copy, fax (if supported), device status, firmware updater.  
+
 - **Limitations**: Slightly larger file size; may include tools you don’t use.
 
 **3. Basic Driver**  
-- **Best for**: Users who want minimal installation or who have limited disk space.  
+
+- **Best for**: Users who want minimal installation or who have limited disk space.
+
 - **Features**: Basic print and scan functions.  
+
 - **Limitations**: No support for advanced functions like scan to email, OCR, etc.
+
 
 Choosing the Right Driver Based on Your Operating System
 --------------------------------------------------------
 
 **Windows (10/11)**  
+
 - **Recommended**: Full Driver & Software Package for full functionality.  
+
 - **Alternative**: Universal Printer Driver if using multiple Brother devices.
 
 **macOS (Ventura, Sonoma, etc.)**  
+
 - **Recommended**: Use iPrint&Scan app for printing and scanning.  
+
 - **Note**: Some Brother drivers are built into macOS; check System Preferences > Printers.
 
 **Linux**  
+
 - **Recommended**: Use Brother’s Linux support page to download `.deb` or `.rpm` drivers.  
+
 - **Tip**: Many Brother models support generic CUPS or LPR printing.
 
 .. _where-to-download-official-brother-drivers:
