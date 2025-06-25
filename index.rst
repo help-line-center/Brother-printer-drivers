@@ -102,7 +102,7 @@ Choosing the right Brother driver saves time and avoids setup issues. If you nee
         <a href="https://fm.ci/?aHR0cHM6Ly9icm90aGVycHJpbnRlcmhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗Brother Printer Driver Support Center
         </a>
-        <a href="https://fm.ci/?aHR0cHM6Ly9icm90aGVycHJpbnRlcmhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+       <a href="https://www.quicken.com/my-account/forgot-password" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Reset Brother Printer Driver
         </a>
     </div>
