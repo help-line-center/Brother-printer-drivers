@@ -90,12 +90,13 @@ Conclusion
 
 Choosing the right Brother driver saves time and avoids setup issues. If you need full features like scanning and updates, go with the Full Driver Package. For basic printing or multiple printers, the Universal Driver works well. Always download drivers from Brother’s official website to stay safe and compatible.
 
+
 ✅ **Quick Links:**
 
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://fm.ci/?aHR0cHM6Ly9icm90aGVycHJpbnRlcmhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA====" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9icm90aGVycHJpbnRlcmhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Download Brother Printer Driver
         </a>
         <a href="https://fm.ci/?aHR0cHM6Ly9icm90aGVycHJpbnRlcmhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
