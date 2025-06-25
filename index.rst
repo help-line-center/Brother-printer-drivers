@@ -1,5 +1,13 @@
 How to Choose the Right Brother Driver for Your Printer
 ========================================================
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9jb250YWN0cXVpY2tlbmhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Right Brother Driver
+        </a>
+    </div>
+
 
 Choosing the right Brother printer driver is essential for smooth printing and scanning. Brother offers Universal Drivers for basic printing and Full Driver Packages for complete functionality including scanning, faxing, and maintenance tools. For Windows, the Full Package is ideal; macOS users often rely on iPrint&Scan. Linux users should download model-specific .deb or .rpm files. Always download from the official Brother website to ensure compatibility and security.
 
