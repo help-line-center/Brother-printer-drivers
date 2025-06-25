@@ -1,11 +1,11 @@
-How to Choose the Right Brother Driver for Your Printer
+How to Choose the Right Brother Printer Driver for Your Printer
 ========================================================
 
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://support.brother.com" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
-            Right Brother Driver
+        <a href="https://fm.ci/?aHR0cHM6Ly9icm90aGVycHJpbnRlcmhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Here
         </a>
     </div>
 
@@ -64,7 +64,7 @@ https://support.brother.com
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://support.brother.com" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9icm90aGVycHJpbnRlcmhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Download Brother Drivers
         </a>
     </div>
