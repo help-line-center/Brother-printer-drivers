@@ -90,6 +90,8 @@ Conclusion
 
 Choosing the right Brother driver saves time and avoids setup issues. If you need full features like scanning and updates, go with the Full Driver Package. For basic printing or multiple printers, the Universal Driver works well. Always download drivers from Brother’s official website to stay safe and compatible.
 
+✅ **Quick Links:**
+
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
