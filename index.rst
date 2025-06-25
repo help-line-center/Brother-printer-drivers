@@ -1,15 +1,17 @@
 How to Choose the Right Brother Driver for Your Printer
 ========================================================
+
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://fm.ci/?aHR0cHM6Ly9jb250YWN0cXVpY2tlbmhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://support.brother.com" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Right Brother Driver
         </a>
     </div>
 
-
 Choosing the right Brother printer driver is essential for smooth printing and scanning. Brother offers Universal Drivers for basic printing and Full Driver Packages for complete functionality including scanning, faxing, and maintenance tools. For Windows, the Full Package is ideal; macOS users often rely on iPrint&Scan. Linux users should download model-specific .deb or .rpm files. Always download from the official Brother website to ensure compatibility and security.
+
+Need the right file? Check the `Brother Driver Download section <#where-to-download-official-brother-drivers>`_.
 
 What Is a Brother Printer Driver?
 ---------------------------------
@@ -51,6 +53,8 @@ Choosing the Right Driver Based on Your Operating System
 - **Recommended**: Use Brother’s Linux support page to download `.deb` or `.rpm` drivers.  
 - **Tip**: Many Brother models support generic CUPS or LPR printing.
 
+.. _where-to-download-official-brother-drivers:
+
 Where to Download Official Brother Drivers
 ------------------------------------------
 
@@ -76,4 +80,3 @@ Conclusion
 ----------
 
 Choosing the right Brother driver saves time and avoids setup issues. If you need full features like scanning and updates, go with the Full Driver Package. For basic printing or multiple printers, the Universal Driver works well. Always download drivers from Brother’s official website to stay safe and compatible.
-
